@@ -1,0 +1,16 @@
+.nav-button {
+  margin-left: auto;
+  margin-right: 0;
+}
+body {
+  overflow-x: scroll;
+  overflow-y: scroll;
+}
+.nav-input {
+  color: #ffffff;
+  background-color: #ff9814;
+}
+
+.nav-input:hover {
+  background-color: #f28a05;
+}

@@ -1,0 +1,15 @@
+.myDoc table {
+  width: 800px;
+  height: 200px;
+  border-collapse: collapse;
+}
+
+.myDoc th {
+  border-bottom: 1px solid black;
+  border: 2px solid black;
+}
+
+.myDoc td {
+  text-align: center;
+  border: 2px solid black;
+}
